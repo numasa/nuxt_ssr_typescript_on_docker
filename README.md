@@ -29,7 +29,7 @@ Nuxt.js (SSRモード) / Typescript / docker のベースプロジェクト
 1. git clone
 ```bash
 $ git clone https://github.com/numasa/nuxt_ssr_typescript_on_docker.git
-$ cd nuxt_typescript_on_docker
+$ cd nuxt_ssr_typescript_on_docker
 ```
 
 2. build & yarn install
