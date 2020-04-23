@@ -1,10 +1,9 @@
-# Base Project TypeScript Nuxt.js (SSR) on Docker
+# Base Project by TypeScript Nuxt.js (SSR) on Docker
 Nuxt.js (SSRモード) / Typescript / docker のベースプロジェクト
 
 ## Version
 - nuxt v2.12.2
 - create-nuxt-app v2.15.0
-- yarn v1.22.0
 
 ## Nuxt App Info
 - Project name: project
