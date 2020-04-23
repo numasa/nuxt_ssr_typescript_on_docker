@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "My mathematical Nuxt.js project",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "generate": "nuxt-ts generate",
+    "start": "nuxt-ts start"
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^0.4.5",
+    "@nuxtjs/axios": "^5.10.1",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "nuxt": "^2.12.2",
+    "vue-property-decorator": "^8.4.1"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.6.5",
+    "@nuxtjs/vuetify": "^1.11.0"
+  }
+}
