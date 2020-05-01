@@ -85,7 +85,8 @@ const config: Configuration = {
     ** You can extend webpack config here
     */
     extend (config, ctx) {
-    }
+    },
+    hardSource: true,
   }
 }
 export default config
